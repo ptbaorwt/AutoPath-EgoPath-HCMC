@@ -1,0 +1,54 @@
+{
+  "device": "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "torch": "2.5.1+cu121",
+  "results": [
+    {
+      "method": "AutoPath-resnet18",
+      "input": [
+        512,
+        256
+      ],
+      "params_M": 11.47592,
+      "size_MB_fp32": 43.77716064453125,
+      "fps": 252.6746879205136,
+      "latency_ms_mean": 3.957657999817457,
+      "latency_ms_p95": 5.602230004660667
+    },
+    {
+      "method": "AutoPath-mobilenet_v3_small",
+      "input": [
+        512,
+        256
+      ],
+      "params_M": 1.226928,
+      "size_MB_fp32": 4.68035888671875,
+      "fps": 120.35451867596582,
+      "latency_ms_mean": 8.308786500092538,
+      "latency_ms_p95": 12.146509998274267
+    },
+    {
+      "method": "AutoSteer-2.0",
+      "input": [
+        1024,
+        512
+      ],
+      "params_M": 8.218774,
+      "size_MB_fp32": 31.352134704589844,
+      "fps": 98.19089173562747,
+      "latency_ms_mean": 10.18424399986543,
+      "latency_ms_p95": 15.27620499982731
+    },
+    {
+      "method": "Canny+Hough (CPU)",
+      "input": [
+        640,
+        320
+      ],
+      "params_M": 0.0,
+      "size_MB_fp32": 0.0,
+      "fps": 586.4868732723163,
+      "latency_ms_mean": 1.7050679999374552,
+      "latency_ms_p95": 3.5280899995996147
+    }
+  ]
+}

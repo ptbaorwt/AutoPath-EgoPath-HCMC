@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "case": "Video MP4 1920x1080 30 FPS",
+    "passed": true,
+    "note": "45/45 khung, kích thước (1024, 512), FPS toàn hệ thống 13.33"
+  },
+  {
+    "id": 2,
+    "case": "Video AVI 1280x720",
+    "passed": true,
+    "note": "45/45 khung, kích thước (1024, 512), FPS toàn hệ thống 17.78"
+  },
+  {
+    "id": 3,
+    "case": "Khung hình không có đường (toàn đen)",
+    "passed": true,
+    "note": "chạy hết video, không dừng"
+  },
+  {
+    "id": 4,
+    "case": "Video 5 khung (nhỏ hơn kích thước lô 8)",
+    "passed": true,
+    "note": "xuất 5/5 khung"
+  },
+  {
+    "id": 5,
+    "case": "Đường dẫn video không tồn tại",
+    "passed": true,
+    "note": "báo lỗi: Không mở được video: C:\\Users\\Thai Bao\\Downloads\\TGMT_422001503102_Nhom01\\AutoPath\\results\\functest\\khong_ton_tai.mp4"
+  },
+  {
+    "id": 6,
+    "case": "Chạy với --method autosteer và --method classical",
+    "passed": true,
+    "note": "autosteer: 5 khung (1024, 512); classical: 5 khung (1024, 512)"
+  },
+  {
+    "id": 7,
+    "case": "Quét alpha với --alphas và --no-write",
+    "passed": true,
+    "note": "CSV có 6/6 dòng, không ghi video: True"
+  },
+  {
+    "id": 8,
+    "case": "Gán nhãn, thoát giữa chừng rồi chạy lại",
+    "passed": true,
+    "note": "phiên 1 lưu 1 nhãn; phiên 2 bắt đầu từ ['f1.jpg'], tổng 1 nhãn"
+  }
+]

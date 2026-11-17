@@ -1,0 +1,9 @@
+[ĐẠT] 1. Video MP4 1920x1080 30 FPS: 45/45 khung, kích thước (1024, 512), FPS toàn hệ thống 13.33
+[ĐẠT] 2. Video AVI 1280x720: 45/45 khung, kích thước (1024, 512), FPS toàn hệ thống 17.78
+[ĐẠT] 3. Khung hình không có đường (toàn đen): chạy hết video, không dừng
+[ĐẠT] 4. Video 5 khung (nhỏ hơn kích thước lô 8): xuất 5/5 khung
+[ĐẠT] 5. Đường dẫn video không tồn tại: báo lỗi: Không mở được video: C:\Users\Thai Bao\Downloads\TGMT_422001503102_Nhom01\AutoPath\results\functest\khong_ton_tai.mp4
+[ĐẠT] 6. Chạy với --method autosteer và --method classical: autosteer: 5 khung (1024, 512); classical: 5 khung (1024, 512)
+[ĐẠT] 7. Quét alpha với --alphas và --no-write: CSV có 6/6 dòng, không ghi video: True
+[ĐẠT] 8. Gán nhãn, thoát giữa chừng rồi chạy lại: phiên 1 lưu 1 nhãn; phiên 2 bắt đầu từ ['f1.jpg'], tổng 1 nhãn
+8/8 ca đạt -> C:\Users\Thai Bao\Downloads\TGMT_422001503102_Nhom01\AutoPath\results\functest\functional_tests.json

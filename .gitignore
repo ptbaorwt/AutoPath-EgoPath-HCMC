@@ -1,0 +1,24 @@
+# Dữ liệu và video (bản quyền chủ kênh / dung lượng lớn) - không đưa lên repo
+hcmc/raw/
+hcmc/frames/*.jpg
+hcmc/frames_loai/
+hcmc/clips*/
+hcmc/pseudo/
+hcmc/_*/
+*.mp4
+*.avi
+# Trọng số mô hình (tải riêng, xem README)
+*.pt
+*.pth
+*.onnx
+weights/
+runs/
+cache/
+auto_steer/
+# Python / hệ điều hành
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+wandb/

@@ -1,0 +1,2 @@
+AutoPath-mobilenet_v3_small trên custom: 187 ảnh
+mAP@50=0.0000 mAP=0.0000 acc@0.05=0.0000 lat=60.86px mAP@50_lab=0.1226 -> results\mbv3s_aug_hcmc

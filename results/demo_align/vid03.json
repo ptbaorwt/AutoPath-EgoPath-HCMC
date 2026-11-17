@@ -1,0 +1,12 @@
+{
+  "video": "hcmc\\raw\\vid03.mp4",
+  "method": "AutoPath-resnet18+align",
+  "frames": 2704,
+  "fps_model": 61.24,
+  "fps_read_and_infer": 46.66,
+  "fps_system": 11.74,
+  "alpha": 0.35,
+  "out": "results\\demo_align\\vid03_align.mp4",
+  "frames_with_warning": 188,
+  "yolo_ms_per_frame": 35.22
+}

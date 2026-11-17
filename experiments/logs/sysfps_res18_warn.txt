@@ -1,0 +1,5 @@
+1504 khung hình, tốc độ mô hình (gồm tiền xử lý) ≈ 109.8 FPS
+[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 2% ──────────── 128.0KB/6.2MB 1.2MB/s 0.1s<4.9s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 12% ━─────────── 736.0KB/6.2MB 5.8MB/s 0.2s<1.0s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 50% ━━━━━━────── 3.1/6.2MB 24.2MB/s 0.3s<0.1s[KDownloading https://github.com/ultralytics/assets/releases/download/v8.4.0/yolov8n.pt to 'yolov8n.pt': 100% ━━━━━━━━━━━━ 6.2MB 16.6MB/s 0.4s
+FPS toàn hệ thống ≈ 27.3
+Số khung có cảnh báo: 1387/1504
+Đã ghi video demo: results\sys_res18_warn.mp4

@@ -1,0 +1,12 @@
+5400 khung hình, tốc độ mô hình (gồm tiền xử lý) ≈ 77.2 FPS
+FPS toàn hệ thống ≈ 16.7
+Số khung có cảnh báo: 3160/5400
+Đã ghi video demo: results\demo\vid01_demo.mp4
+5400 khung hình, tốc độ mô hình (gồm tiền xử lý) ≈ 76.0 FPS
+FPS toàn hệ thống ≈ 17.1
+Số khung có cảnh báo: 1976/5400
+Đã ghi video demo: results\demo\vid03_demo.mp4
+5400 khung hình, tốc độ mô hình (gồm tiền xử lý) ≈ 81.7 FPS
+FPS toàn hệ thống ≈ 16.6
+Số khung có cảnh báo: 2742/5400
+Đã ghi video demo: results\demo\vid04_demo.mp4

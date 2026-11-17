@@ -1,0 +1,12 @@
+{
+  "video": "hcmc\\clips_small\\vid01_clip.mp4",
+  "method": "AutoPath-resnet18",
+  "frames": 1504,
+  "fps_model": 109.76,
+  "fps_read_and_infer": 95.77,
+  "fps_system": 27.29,
+  "alpha": 0.35,
+  "out": "results\\sys_res18_warn.mp4",
+  "frames_with_warning": 1387,
+  "yolo_ms_per_frame": 16.86
+}

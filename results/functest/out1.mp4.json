@@ -1,0 +1,10 @@
+{
+  "video": "C:\\Users\\Thai Bao\\Downloads\\TGMT_422001503102_Nhom01\\AutoPath\\results\\functest\\t1_1080p.mp4",
+  "method": "AutoPath-resnet18",
+  "frames": 45,
+  "fps_model": 25.38,
+  "fps_read_and_infer": 19.85,
+  "fps_system": 13.33,
+  "alpha": 0.35,
+  "out": "C:\\Users\\Thai Bao\\Downloads\\TGMT_422001503102_Nhom01\\AutoPath\\results\\functest\\out1.mp4"
+}

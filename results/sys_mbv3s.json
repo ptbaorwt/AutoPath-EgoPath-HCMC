@@ -1,0 +1,10 @@
+{
+  "video": "hcmc\\clips_small\\vid01_clip.mp4",
+  "method": "AutoPath-mobilenet_v3_small",
+  "frames": 1504,
+  "fps_model": 102.05,
+  "fps_read_and_infer": 86.54,
+  "fps_system": 48.55,
+  "alpha": 0.35,
+  "out": "results\\sys_mbv3s.mp4"
+}

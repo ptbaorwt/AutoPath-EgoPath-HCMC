@@ -1,0 +1,25 @@
+5400 khung hình, tốc độ mô hình (gồm tiền xử lý) ≈ 79.1 FPS
+alpha=0.1   jitter=0.86px (thô 5.40px)  lag=7.73px
+alpha=0.2   jitter=1.43px (thô 5.40px)  lag=5.68px
+alpha=0.35  jitter=2.14px (thô 5.40px)  lag=3.95px
+alpha=0.5   jitter=2.81px (thô 5.40px)  lag=2.80px
+alpha=0.7   jitter=3.74px (thô 5.40px)  lag=1.59px
+alpha=1.0   jitter=5.40px (thô 5.40px)  lag=0.00px
+-> results\alpha\vid01_alpha_sweep.csv
+5400 khung hình, tốc độ mô hình (gồm tiền xử lý) ≈ 74.0 FPS
+alpha=0.1   jitter=1.00px (thô 4.94px)  lag=8.94px
+alpha=0.2   jitter=1.64px (thô 4.94px)  lag=6.52px
+alpha=0.35  jitter=2.38px (thô 4.94px)  lag=4.39px
+alpha=0.5   jitter=2.98px (thô 4.94px)  lag=2.97px
+alpha=0.7   jitter=3.72px (thô 4.94px)  lag=1.59px
+alpha=1.0   jitter=4.94px (thô 4.94px)  lag=0.00px
+-> results\alpha\vid03_alpha_sweep.csv
+5400 khung hình, tốc độ mô hình (gồm tiền xử lý) ≈ 74.5 FPS
+alpha=0.1   jitter=1.06px (thô 9.46px)  lag=9.46px
+alpha=0.2   jitter=1.95px (thô 9.46px)  lag=7.70px
+alpha=0.35  jitter=3.21px (thô 9.46px)  lag=5.90px
+alpha=0.5   jitter=4.49px (thô 9.46px)  lag=4.44px
+alpha=0.7   jitter=6.28px (thô 9.46px)  lag=2.66px
+alpha=1.0   jitter=9.46px (thô 9.46px)  lag=0.00px
+-> results\alpha\vid04_alpha_sweep.csv
+Gộp 3 tệp -> results\alpha_hcmc_mean.csv

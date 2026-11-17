@@ -1,0 +1,3 @@
+1504 khung hình, tốc độ mô hình (gồm tiền xử lý) ≈ 36.9 FPS
+FPS toàn hệ thống ≈ 22.4
+Đã ghi video demo: results\sys_autosteer.mp4

@@ -1,0 +1,3 @@
+1504 khung hình, tốc độ mô hình (gồm tiền xử lý) ≈ 110.5 FPS
+FPS toàn hệ thống ≈ 52.6
+Đã ghi video demo: results\sys_res18.mp4

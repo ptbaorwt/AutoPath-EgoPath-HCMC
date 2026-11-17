@@ -1,0 +1,10 @@
+{
+  "video": "hcmc\\clips_small\\vid01_clip.mp4",
+  "method": "AutoSteer-2.0",
+  "frames": 1504,
+  "fps_model": 36.85,
+  "fps_read_and_infer": 33.49,
+  "fps_system": 22.41,
+  "alpha": 0.35,
+  "out": "results\\sys_autosteer.mp4"
+}

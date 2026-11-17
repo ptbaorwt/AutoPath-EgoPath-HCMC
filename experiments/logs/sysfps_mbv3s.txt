@@ -1,0 +1,3 @@
+1504 khung hình, tốc độ mô hình (gồm tiền xử lý) ≈ 102.0 FPS
+FPS toàn hệ thống ≈ 48.5
+Đã ghi video demo: results\sys_mbv3s.mp4

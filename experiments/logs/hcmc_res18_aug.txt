@@ -1,0 +1,2 @@
+AutoPath-resnet18 trên custom: 187 ảnh
+mAP@50=0.0000 mAP=0.0000 acc@0.05=0.0000 lat=53.91px mAP@50_lab=0.1604 -> results\res18_aug_hcmc

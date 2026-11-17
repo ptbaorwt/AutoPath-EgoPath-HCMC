@@ -1,0 +1,54 @@
+{
+  "device": "Tesla T4",
+  "torch": "2.11.0+cu130",
+  "results": [
+    {
+      "method": "AutoPath-resnet18",
+      "input": [
+        512,
+        256
+      ],
+      "params_M": 11.47592,
+      "size_MB_fp32": 43.77716064453125,
+      "fps": 190.91903845994412,
+      "latency_ms_mean": 5.237822314979894,
+      "latency_ms_p95": 7.635877450184125
+    },
+    {
+      "method": "AutoPath-mobilenet_v3_small",
+      "input": [
+        512,
+        256
+      ],
+      "params_M": 1.226928,
+      "size_MB_fp32": 4.68035888671875,
+      "fps": 185.94735844166158,
+      "latency_ms_mean": 5.377866125018045,
+      "latency_ms_p95": 5.782219000093391
+    },
+    {
+      "method": "AutoSteer-2.0",
+      "input": [
+        1024,
+        512
+      ],
+      "params_M": 8.218774,
+      "size_MB_fp32": 31.352134704589844,
+      "fps": 178.04038909368631,
+      "latency_ms_mean": 5.616703069963478,
+      "latency_ms_p95": 5.689174450390055
+    },
+    {
+      "method": "Canny+Hough (CPU)",
+      "input": [
+        640,
+        320
+      ],
+      "params_M": 0.0,
+      "size_MB_fp32": 0.0,
+      "fps": 518.4606360394166,
+      "latency_ms_mean": 1.9287867399907554,
+      "latency_ms_p95": 2.3648931505249493
+    }
+  ]
+}

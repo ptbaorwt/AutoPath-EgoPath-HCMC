@@ -1,0 +1,2 @@
+AutoPath-resnet18+align trên custom: 187 ảnh
+mAP@50=0.1694 mAP=0.2842 acc@0.05=0.2353 lat=55.92px mAP@50_lab=0.5887 -> results\res18_noaug_hcmc_align

@@ -1,0 +1,2 @@
+AutoSteer-2.0 trên custom: 187 ảnh
+mAP@50=0.4119 mAP=0.4167 acc@0.05=0.5348 lat=35.11px mAP@50_lab=0.7391 -> results\autosteer_hcmc

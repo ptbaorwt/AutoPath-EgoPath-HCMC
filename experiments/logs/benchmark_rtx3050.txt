@@ -1,0 +1,5 @@
+Thiết bị: NVIDIA GeForce RTX 3050 Laptop GPU
+AutoPath-resnet18                           252.7 FPS     3.96 ms   11.48M    43.8 MB
+AutoPath-mobilenet_v3_small                 120.4 FPS     8.31 ms    1.23M     4.7 MB
+AutoSteer-2.0                                98.2 FPS    10.18 ms    8.22M    31.4 MB
+Canny+Hough (CPU)                           586.5 FPS     1.71 ms    0.00M     0.0 MB

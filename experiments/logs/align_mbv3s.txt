@@ -1,0 +1,2 @@
+AutoPath-mobilenet_v3_small+align trên custom: 187 ảnh
+mAP@50=0.1512 mAP=0.2768 acc@0.05=0.2032 lat=52.84px mAP@50_lab=0.6021 -> results\mbv3s_aug_hcmc_align

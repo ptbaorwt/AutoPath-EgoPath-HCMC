@@ -1,0 +1,12 @@
+2704 khung hình, tốc độ mô hình (gồm tiền xử lý) ≈ 57.0 FPS
+FPS toàn hệ thống ≈ 15.0
+Số khung có cảnh báo: 31/2704
+Đã ghi video demo: results\demo_align\vid01_align.mp4
+2704 khung hình, tốc độ mô hình (gồm tiền xử lý) ≈ 61.2 FPS
+FPS toàn hệ thống ≈ 11.7
+Số khung có cảnh báo: 188/2704
+Đã ghi video demo: results\demo_align\vid03_align.mp4
+2704 khung hình, tốc độ mô hình (gồm tiền xử lý) ≈ 50.9 FPS
+FPS toàn hệ thống ≈ 14.4
+Số khung có cảnh báo: 106/2704
+Đã ghi video demo: results\demo_align\vid04_align.mp4
