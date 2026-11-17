@@ -33,6 +33,7 @@ Có ba phương pháp được so sánh trên cùng nhãn và cùng metric:
 | AutoSteer 2.0 | 0,739 | 35,1 |
 | AutoPath-ResNet18 | 0,160 | 53,9 |
 | AutoPath-ResNet18 + căn góc camera (`autopath/align.py`) | 0,619 | 45,9 |
+| AutoPath-ResNet18 tinh chỉnh trên TP.HCM, nhãn giả từ AutoSteer (`tools/finetune_hcmc.py`) | **0,775** | **32,9** |
 
 **Tốc độ trên laptop RTX 3050:** mô hình 252,7 FPS; toàn hệ thống (960×540) 52,6 FPS, 27,3 FPS khi bật cảnh báo vật cản.
 
